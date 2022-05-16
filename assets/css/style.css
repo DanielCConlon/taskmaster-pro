@@ -57,15 +57,15 @@ ul.list-group {
 .btn-close,
 .btn-delete {
   background-color: #ea0028;
-  background-image: linear-gradient(linear-gradient(180deg, #FF9A8B 0%, #EA0028 100%);
+  background-image: linear-gradient(180deg, #FF9A8B 0%, #EA0028 100%);
   transition: all .5s ease-out;
   background-size: 1px 100px;
   background-position: 0 -10px;
 }
 
-.btn-save:hover, 
+.btn-save:hover,
 .btn-add:hover,
-.btn-close:hover, 
+.btn-close:hover,
 .btn-delete:hover {
   background-position: 1px -50px;
 }

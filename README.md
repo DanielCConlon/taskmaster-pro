@@ -28,6 +28,8 @@ Use Moment.js to make handling JavaScript date and time functionality a lot easi
 
 # Section 5.5
 
+things learned throughout the project
+
 We learned what third-party libraries are and what purposes they serve.
 
 We learned how to implement third-party libraries into our application via a CDN.
