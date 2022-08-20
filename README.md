@@ -1,50 +1,22 @@
 # taskmaster-pro
 
-# Section 5.2
+- Github URL: https://github.com/DanielCConlon/taskmaster-pro
+- github pages: https://danielcconlon.github.io/taskmaster-pro/
 
-Created responsive layouts using Bootstrap's grid system.
+## Table-of-Contents
 
-Used the UI components Bootstrap provides us.
+- [Description](#description)
+- [Usage](#usage)
+- [Application](#application)
 
-Leveraged Bootstrap's utility classes to avoid creating unnecessary custom CSS.
+## [Description](#description)
 
-# Section 5.3
+Taskmaster is a task-managment application created following a course module on Jquery and Bootstrap.
 
-Incorporate additional CDN links into a project.
+## [Usage](#table-of-contents)
 
-Skim new documentation to quickly learn about new tools.
+Open the website and you can add/delete a task using the buttons. You can also drag a task to the different status'.
 
-Use jQuery extensions to enable draggable elements.
+## [Application](#table-of-contents)
 
-# Section 5.4
-
-Learn how to use jQuery UI's Datepicker widget with date-input form fields.
-
-Implement another third-party JavaScript library using a CDN link.
-
-Learn how JavaScript natively handles date and time functionality.
-
-Use Moment.js to make handling JavaScript date and time functionality a lot easier.
-
-# Section 5.5
-
-things learned throughout the project
-
-We learned what third-party libraries are and what purposes they serve.
-
-We learned how to implement third-party libraries into our application via a CDN.
-
-We learned how to understand and use a library's documentation when implementing new features.
-
-We experienced what jQuery has to offer in terms of making DOM manipulation a little bit easier to do.
-
-We used Bootstrap to save time and frustration by using their pre-built CSS styles.
-
-We learned how to use jQuery UI for functionality we'd otherwise have to build from scratch.
-
-We were introduced to the complexities of date and time functionality in JavaScript and how MomentJS can be used to help us in those situations.
-
-We learned about timed events in JavaScript and how to use callback functions in setTimeout() and setInterval().
-
-BONUS: We also learned that JavaScript deals in milliseconds.
-We reinforced our knowledge of CSS layouts and design.
+![Website image](./assets/Capture.PNG)
